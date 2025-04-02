@@ -39,7 +39,11 @@ This repository contains step-by-step guides on deploying and managing key AWS s
 ### 🔥 AWS Security Groups & Networking
 - Setting up inbound and outbound rules  
 - Best practices for securing AWS infrastructure  
-- Configuring firewall rules and traffic flow  
+- Configuring firewall rules and traffic flow
+
+### 🔥 AWS Monitoring and Alerting
+- Creating and configuring alarms for security events
+- Logging and monitoring using CloudTrail and CloudWatch Logs
 
 ## 📂 How to Use  
 - Browse the repository and download the relevant PDF files.  
